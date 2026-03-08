@@ -1,1 +1,4 @@
-# 2dgamerand
+AdvancedGameDev_Assignment1_Rand
+​This project is a 2D vertical platformer game where the player controls a character that jumps across various platforms to reach the highest point while avoiding obstacles along the way. I developed this game using Unity 6 and C# scripting as part of the Advanced Game Development course (DRG310) at Yarmouk University.  
+​The gameplay relies on physics-based jumping and movement mechanics, featuring collision detection and interactive elements that I implemented to handle the game logic. The project is organized to include a complete game loop, transitioning from the start of the level to the winning or losing conditions.  
+​To run the game, you can open the project in Unity 6 and load the main scene from the Scenes folder. Once the scene is open, simply press the Play button and use the Arrow keys or Spacebar to control the character's movement and jumping.
